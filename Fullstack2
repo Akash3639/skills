@@ -1,6 +1,7 @@
 $npm init -y
 $npm install express
 
+#index.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -49,6 +50,7 @@ $npm install express
 </html>
 
 
+#server.js
 
 
 const express = require('express');
